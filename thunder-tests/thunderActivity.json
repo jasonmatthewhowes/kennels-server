@@ -280,16 +280,16 @@
     "colId": "history",
     "containerId": "",
     "name": "http://localhost:8088/employees?location_id=1",
-    "url": "http://localhost:8088/employees",
+    "url": "http://localhost:8088/animals",
     "method": "GET",
     "sortNum": 0,
     "created": "2023-01-18T17:31:10.627Z",
-    "modified": "2023-01-19T17:42:29.344Z",
+    "modified": "2023-01-19T20:31:04.440Z",
     "headers": [],
     "params": [],
     "body": {
       "type": "json",
-      "raw": "{\n    \"id\": 3,\n    \"name\": \"Falafel\",\n    \"breed\": \"Siamese\",\n    \"status\": \"Treatment\",\n    \"location_id\": 2,\n    \"customer_id\": 4\n  }",
+      "raw": "{\n    \"name\": \"Theodore\",\n    \"breed\": \"Bulldog\",\n    \"status\": \"Treatment\",\n    \"location_id\": 2,\n    \"customer_id\": 4\n  }",
       "form": []
     },
     "tests": []
